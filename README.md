@@ -69,5 +69,5 @@ This simulator allows for the testing of various demographic scenarios. The defa
 
 ## 7. References
 1.  **Hock, H., & Weil, D. N. (2012).** *On the dynamics of the age structure, dependency, and consumption.* Journal of Population Economics, 25(3), 1019-1043.
-2.  **Hock, H., & Weil, D. N. (2007).** Modeling the effects of population aging on consumption in the presence of intergenerational transfers. In R. Clark, N. Ogawa, & A. Mason (Eds.), *Population Aging, Intergenerational Transfers and the Macroeconomy* (pp. 101-127). [cite_start]Edward Elgar Publishing. [cite: 1464]
+2.  **Hock, H., & Weil, D. N. (2007).** Modeling the effects of population aging on consumption in the presence of intergenerational transfers. In R. Clark, N. Ogawa, & A. Mason (Eds.), *Population Aging, Intergenerational Transfers and the Macroeconomy* (pp. 101-127). Edward Elgar Publishing.
 3.  **Feichtinger, G., Prskawetz, A., & Veliov, V. M. (2004).** *Age-structured optimal control in population economics.* Theoretical Population Biology, 65(4), 373-387.
